@@ -1,0 +1,14 @@
+schema_version = "1.0.0"
+id = "uv order manager"
+version = "1.0.0"
+name = "UV Order"
+tagline = "A simple tool for rearranging UV order in Blender."
+maintainer = "UMLEARN <service@umlearn.tech>"
+type = "add-on"
+website = "https://github.com/umlearn/blender-uv-order-manager"
+tags = ["UV"]
+blender_version_min = "4.2.0"
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
+
